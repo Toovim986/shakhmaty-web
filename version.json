@@ -1,9 +1,9 @@
 {
   "game": "Шахматы",
   "stage": "prototype (mobile stage B, early web)",
-  "commit": "031beb2f670b92b79f21e81064aed3ebee1c9e69",
+  "commit": "ceb638bb65c656179375ea80e7caf1fcb96ad479",
   "dirty": true,
   "godot": "4.7.2.stable.official.ed1daf0bf",
   "mode": "release",
-  "built_at_utc": "2026-10-08T14:36:55.112Z"
+  "built_at_utc": "2026-10-08T15:50:02.351Z"
 }
